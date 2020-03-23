@@ -2,13 +2,13 @@
   "naam": "Vocabularium Organisatie",
   "verantwoordelijke_organisatie": "Agentschap Informatie Vlaanderen",
   "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO002949",
-  "publicatiedatum": "2018-07-03",
-  "type_toepassing": "Aanbevolen (vrijwillig)",
+  "publicatiedatum": "TBD",
+  "type_toepassing": "",
   "categorie": "Vocabularium & applicatieprofielen",
   "specificatiedocument": [
     {
-      "naam": "Vocabularium Organisatie",
-      "waarde": "https://data.vlaanderen.be/ns/organisatie"
+      "naam": "Applicatieprofiel Organisatie Basis",
+      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/organisatie-basis/"
     }
   ],
   "documentatie": [],
@@ -57,6 +57,6 @@
   "functioneel_toepassingsgebied": "Semantische standaard voor informatie met betrekking tot organisaties",
   "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
   "datum_van_aanmelding": "10 April 2018",
-  "erkenning_werkgroep_datastandaarden": "28 Mei 2018",
-  "erkenning_stuurgroep": "03 Juli 2018"
+  "erkenning_werkgroep_datastandaarden": "TBD",
+  "erkenning_stuurgroep": "TBD"
 }
